@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "TLDR Word Cloud",
+  "version": "1.0",
+  "description": "Generates a word cloud of the current webpage to decide TLDR or not.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Show Word Cloud"
+  },
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "host_permissions": [
+    "https://integrate.api.nvidia.com/*"
+  ]
+}
