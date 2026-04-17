@@ -52,5 +52,12 @@ This extension serves as an essential tool for **protecting your mental well-bei
 ## In Action
 ![Extension Screenshot](/screenshot.png)
 
+
+
+## Demo Video
+[Watch on YouTube](https://youtu.be/PB8sRTeIovU)
+
+
+
 ## License
 MIT
